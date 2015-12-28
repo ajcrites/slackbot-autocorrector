@@ -1,0 +1,6 @@
+{
+    "token": "oauth token here",
+    "replacements": {
+        "foo": "bar"
+    }
+}
